@@ -1,0 +1,6 @@
+
+Welcome to my knowledge session
+
+I know the below technologies:
+PYHTON
+BIGDATA
